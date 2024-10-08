@@ -3,25 +3,46 @@
   <title>ivan-blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/ivanlim94/ivanlim94.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-10-08T14:17:49.170Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://github.com/ivanlim94/ivanlim94.github.io/"/>
+  <updated>2024-10-08T14:48:57.728Z</updated>
+  <id>https://github.com/ivanlim94/ivanlim94.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>ivan Lim</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2024/07/17/hello-world/"/>
-    <id>http://example.com/2024/07/17/hello-world/</id>
+    <title></title>
+    <link href="https://github.com/ivanlim94/ivanlim94.github.io/2024/10/08/readme/"/>
+    <id>https://github.com/ivanlim94/ivanlim94.github.io/2024/10/08/readme/</id>
+    <published>2024-10-08T14:48:08.206Z</published>
+    <updated>2024-10-08T14:48:57.728Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;hexo教程&quot;&gt;&lt;a href=&quot;#hexo教程&quot; class=&quot;headerlink&quot; title=&quot;hexo教程&quot;&gt;&lt;/a&gt;hexo教程&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello2 World</title>
+    <link href="https://github.com/ivanlim94/ivanlim94.github.io/2024/07/17/hello-world/"/>
+    <id>https://github.com/ivanlim94/ivanlim94.github.io/2024/07/17/hello-world/</id>
     <published>2024-07-17T13:21:19.677Z</published>
-    <updated>2024-10-08T14:17:49.170Z</updated>
+    <updated>2024-10-08T14:47:53.837Z</updated>
     
     
       
