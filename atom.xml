@@ -3,11 +3,11 @@
   <title>ivan-blog</title>
   
   
-  <link href="https://github.com/ivanlim94/ivanlim94.github.io/atom.xml" rel="self"/>
+  <link href="https://ivanlim94.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/ivanlim94/ivanlim94.github.io/"/>
+  <link href="https://ivanlim94.github.io/"/>
   <updated>2024-10-08T14:48:57.728Z</updated>
-  <id>https://github.com/ivanlim94/ivanlim94.github.io/</id>
+  <id>https://ivanlim94.github.io/</id>
   
   <author>
     <name>ivan Lim</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://github.com/ivanlim94/ivanlim94.github.io/2024/10/08/readme/"/>
-    <id>https://github.com/ivanlim94/ivanlim94.github.io/2024/10/08/readme/</id>
+    <link href="https://ivanlim94.github.io/2024/10/08/readme/"/>
+    <id>https://ivanlim94.github.io/2024/10/08/readme/</id>
     <published>2024-10-08T14:48:08.206Z</published>
     <updated>2024-10-08T14:48:57.728Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello2 World</title>
-    <link href="https://github.com/ivanlim94/ivanlim94.github.io/2024/07/17/hello-world/"/>
-    <id>https://github.com/ivanlim94/ivanlim94.github.io/2024/07/17/hello-world/</id>
+    <link href="https://ivanlim94.github.io/2024/07/17/hello-world/"/>
+    <id>https://ivanlim94.github.io/2024/07/17/hello-world/</id>
     <published>2024-07-17T13:21:19.677Z</published>
     <updated>2024-10-08T14:47:53.837Z</updated>
     
